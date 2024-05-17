@@ -1,5 +1,5 @@
 - 👋 Olá, sou Rafael Guilherme e seja bem vindo ao meu github!
-- 👀 Estou estudando Javascript e React
+- 👀 Estou estudando Javascript e TypeScript
 - 👨‍💻 Buscando oportunidade de trabalho
 
 
